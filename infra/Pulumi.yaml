@@ -1,0 +1,6 @@
+name: grocery-list-python
+description: Deploying a MERN-stack app on DigitalOcean
+runtime:
+    name: python
+    options:
+        virtualenv: venv

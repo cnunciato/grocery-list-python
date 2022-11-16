@@ -1,0 +1,3 @@
+config:
+  grocery-list-python:branch: main
+  grocery-list-python:repo: cnunciato/grocery-list-python
